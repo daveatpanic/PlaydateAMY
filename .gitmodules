@@ -1,0 +1,3 @@
+[submodule "amy"]
+	path = amy
+	url = git@github.com:shorepine/amy.git
